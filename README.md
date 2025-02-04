@@ -1,4 +1,4 @@
-- 👋 Hi, I’m NGUYEN BUI THANH AN
+- 👋 Hi, my name is NGUYEN BUI THANH AN
 - 👀 I’m interested in Embedded System Design
 - 🌱 I’m currently learning Hardware Design
 - 📫 How to reach me through email an.nbt081102@gmail.com
