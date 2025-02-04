@@ -1,3 +1,4 @@
+# About Me:
 - 👋 Hi, my name is NGUYEN BUI THANH AN
 - 👀 I’m interested in Embedded System Design
 - 🌱 I’m currently learning Hardware Design
