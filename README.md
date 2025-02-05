@@ -1,4 +1,6 @@
-<!---Hello, my name is Nguyen Bui Thanh An, I am from Ha Dong, Hanoi, Vietnam. I was born on November 8th 2002. My family has 5 people: my father, mother, me and my 2little sisters. I graduated with a bachelor degree in Control Engineering and Automation in School of Electrical and Electronic Engineering in Hanoi University of Science and Technology. In my freetime, I like to play video games and reading books or manga.  
+<!---
+Hello, my name is Nguyen Bui Thanh An, I am from Ha Dong, Hanoi, Vietnam. I was born on November 8th 2002. My family has 5 people: my father, mother, me and my 2little sisters. I graduated with a bachelor degree in Control Engineering and Automation in School of Electrical and Electronic Engineering in Hanoi University of Science and Technology. In my freetime, I like to play video games and reading books or manga.
+I intended to participate in a Master of Science Course in Europe, particulaly related to Embedded System Design and Internet of Things 
 --->
 
 # About Me:
